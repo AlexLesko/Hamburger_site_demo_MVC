@@ -1,0 +1,7 @@
+﻿@model IEnumerable<Burger>
+    <div class="row">
+        @foreach (var burger in Model)
+        {
+            <partial name="_BurgerCard" model="burger" />
+        }
+    </div>

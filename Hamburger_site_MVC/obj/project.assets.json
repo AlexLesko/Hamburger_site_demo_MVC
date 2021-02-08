@@ -5666,23 +5666,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lalex\\.nuget\\packages\\": {},
+    "C:\\Users\\lea1mc\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programming\\Tutorial_Projects\\Hamburger_site_MVC\\Hamburger_site_MVC\\Hamburger_site_MVC\\Hamburger_site_MVC.csproj",
+      "projectUniqueName": "C:\\Users\\lea1mc\\Desktop\\program_tryout\\Hamburger_site_MVC\\Hamburger_site_demo_MVC\\Hamburger_site_MVC\\Hamburger_site_MVC.csproj",
       "projectName": "Hamburger_site_MVC",
-      "projectPath": "E:\\Programming\\Tutorial_Projects\\Hamburger_site_MVC\\Hamburger_site_MVC\\Hamburger_site_MVC\\Hamburger_site_MVC.csproj",
-      "packagesPath": "C:\\Users\\lalex\\.nuget\\packages\\",
-      "outputPath": "E:\\Programming\\Tutorial_Projects\\Hamburger_site_MVC\\Hamburger_site_MVC\\Hamburger_site_MVC\\obj\\",
+      "projectPath": "C:\\Users\\lea1mc\\Desktop\\program_tryout\\Hamburger_site_MVC\\Hamburger_site_demo_MVC\\Hamburger_site_MVC\\Hamburger_site_MVC.csproj",
+      "packagesPath": "C:\\Users\\lea1mc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lea1mc\\Desktop\\program_tryout\\Hamburger_site_MVC\\Hamburger_site_demo_MVC\\Hamburger_site_MVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\lalex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lea1mc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -5695,6 +5695,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -5706,6 +5707,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
             "target": "Package",
@@ -5744,7 +5746,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

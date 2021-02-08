@@ -33,9 +33,12 @@ namespace Hamburger_site_MVC
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
             services.AddDefaultIdentity<IdentityUser>().AddEntityFrameworkStores<AppDbContext>();
-
+            
 
             services.AddScoped<IBurgerRepository, BurgerRepository>();
+            services.AddScoped<IOrderRepository, OrderRepository>();
+            services.AddScoped<ShoppingCart>(sp => ShoppingCart.GetCart(sp));
+
             services.AddHttpContextAccessor();
             services.AddSession();
             services.AddControllersWithViews();

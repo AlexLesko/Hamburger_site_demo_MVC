@@ -188,3 +188,6 @@ C:\Users\lea1mc\Desktop\program_tryout\Hamburger_site_MVC\Hamburger_site_demo_MV
 C:\Users\lea1mc\Desktop\program_tryout\Hamburger_site_MVC\Hamburger_site_demo_MVC\Hamburger_site_MVC\obj\Debug\netcoreapp3.1\Hamburger_site_MVC.dll
 C:\Users\lea1mc\Desktop\program_tryout\Hamburger_site_MVC\Hamburger_site_demo_MVC\Hamburger_site_MVC\obj\Debug\netcoreapp3.1\Hamburger_site_MVC.pdb
 C:\Users\lea1mc\Desktop\program_tryout\Hamburger_site_MVC\Hamburger_site_demo_MVC\Hamburger_site_MVC\obj\Debug\netcoreapp3.1\Hamburger_site_MVC.genruntimeconfig.cache
+C:\Users\lea1mc\Desktop\program_tryout\Hamburger_site_MVC\Hamburger_site_demo_MVC\Hamburger_site_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Order\CheckOutComplete.cshtml.g.cs
+C:\Users\lea1mc\Desktop\program_tryout\Hamburger_site_MVC\Hamburger_site_demo_MVC\Hamburger_site_MVC\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+C:\Users\lea1mc\Desktop\program_tryout\Hamburger_site_MVC\Hamburger_site_demo_MVC\Hamburger_site_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs

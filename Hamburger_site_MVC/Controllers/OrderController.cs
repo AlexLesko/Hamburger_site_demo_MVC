@@ -42,5 +42,11 @@ namespace Hamburger_site_MVC.Controllers
             }
             return View(order);
         }
+
+        public IActionResult CheckOutComplete()
+        {
+            ViewBag.CheckoutCompleteMessage = "Thanks for your order. You'll soon enjoy our delicious pies!";
+            return View();
+        }
     }
 }
